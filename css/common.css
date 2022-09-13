@@ -1,0 +1,18 @@
+header{
+    width: 1472px;
+    height: 65px;
+    background-color: #002540;
+    padding: 5px; /*xác định khoảng cách trong vùng đệm thành phần */
+    color: #ffffff;
+    padding-left: 30px; /*chỉnh thước dọc, canh trái*/
+    
+}
+content{
+    width: 1472px;
+    height: 500px;
+    background-color: #002540;
+    padding: 5px;
+    color: #f60100;
+    padding-left: 30px;
+
+}
